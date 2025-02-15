@@ -1,0 +1,38 @@
+Assets (100-199):
+
+100 - Cash
+101 - Accounts Receivable
+102 - Prepaid Insurance
+103 - Inventory
+104 - Equipment-Printer
+105 - Office Supplies
+106 - Accumulated Depreciation-Equipment(Printer)
+
+Liabilities (200-299):
+
+200 - Accounts Payable
+201 - Notes Payable
+202 - Interest Payable
+
+Owner's Equity (300-399):
+
+300 - Capital
+301 - Drawings
+
+Revenue (400-499):
+400 - Sales Revenue
+401 - Sales Discount
+402 - Sales Return and Allowances
+
+Expenses (500-599):
+
+500 - Cost of goods Sold
+501 - Rent Expense
+502 - Salaries and Wages Expense
+503 - Depreciation Expense
+504 - Interest Expense
+505 - Supplies Expense
+506 - Utilities Expense
+507 - Miscellaneous Expense
+508 - Insurance Expense
+  
